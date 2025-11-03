@@ -2,7 +2,6 @@
 
 ## **Frontend README — `suyash-tidke-assignment-frontend`**
 
-```markdown
 # Stock Watchlist Frontend
 
 This is the **React frontend** for the Stock Watchlist app.  
